@@ -1,0 +1,5 @@
+﻿  FTCG_T2.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  c:\users\jtkm6\documents\visual studio 2015\projects\ftcg_t2\ftcg_t2\dependencies\glfw_win64\include\glfw\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+  FTCG_T2.vcxproj -> C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\FTCG_T2\x64\Debug\FTCG_T2.exe
+  FTCG_T2.vcxproj -> C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\FTCG_T2\x64\Debug\FTCG_T2.pdb (Full PDB)
